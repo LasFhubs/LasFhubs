@@ -1,9 +1,9 @@
 ## Hi there 👋
-<h1 align="center">👋 Hey there! I'm Nicollas 😎</h1>
+<h1 align="center"> Hello to everyone who has visited my profile!</h1>
 
 <p align="center">
-  <em>"Coding like no one's watching... except GitHub is."</em><br>
-  <strong>Bug hunter. Coffee-powered. Professional 'it-works-on-my-machine' developer.</strong>
+  <em>"Programming for Fun, for now"</em><br>
+  <strong>i don't like learning difficult things, i blame the easy dopamine that some apps make... 💭🙃</strong>
 </p>
 
 <hr>
