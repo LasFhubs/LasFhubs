@@ -11,7 +11,7 @@
 <h2>📊 Language Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasFhubs&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
 </p>
 
 <p align="center"><em>*Is it just another idiotic thing to do?*</em></p>
