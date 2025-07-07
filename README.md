@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 <h1 align="center"> Hello to everyone who has visited my profile!</h1>
 
 <p align="center">
@@ -24,9 +24,9 @@
   This is the sacred space where I share:
   <ul>
     <li>🙃 I still haven't completely fallen in love with languages</li>
-    <li>🤔 The philosophy of <code>console.log()</code></li>
-    <li>🚀 World domination plans (coded in Python, obviously)</li>
-    <li>🐛 Bug stories that almost became feature requests</li>
+    <li>😊 My name is Nicollas and thank you for visiting my page!</li>
+    <li>🚀 Wanting to Learn New Things, this time it was programming!</li>
+    <li>👴 I want to have adventure stories to tell my grandchildren!</li>
   </ul>
 </p>
 
