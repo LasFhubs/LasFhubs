@@ -14,16 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
 </p>
 
-<p align="center"><em>*Yes, JavaScript and I are in a complicated relationship.*</em></p>
+<p align="center"><em>*Is it just another idiotic thing to do?*</em></p>
 
 <hr>
 
-<h2>✍️ My Writings, Rants & Existential Code Thoughts</h2>
+<h2>✍💭 Maybe if I fall in love with languages I'll become a programmer</h2>
 
 <p>
   This is the sacred space where I share:
   <ul>
-    <li>🔥 Why bugs vanish when the senior dev walks in</li>
+    <li>🙃 I still haven't completely fallen in love with languages</li>
     <li>🤔 The philosophy of <code>console.log()</code></li>
     <li>🚀 World domination plans (coded in Python, obviously)</li>
     <li>🐛 Bug stories that almost became feature requests</li>
